@@ -1,2 +1,2 @@
 # eZscanner
-eZpublisn vulnerability scanner
+eZpublish vulnerability scanner
