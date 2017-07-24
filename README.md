@@ -3,7 +3,7 @@ eZscanner
 
 Description
 -----------
-eZpublish is an open source automated eZpublish vulnerability scanner, that is capable of looking for most common vulnerabilities.
+eZscanner is an open source automated eZpublish vulnerability scanner, that is capable of looking for most common vulnerabilities.
 It allows automatic scanning of default paths, views, user related pages, along with [CVE-2012-1565](http://blog-oppida.blogspot.fr/2012/03/ezpublish-object-remote-full.html) (ezjscore information disclosure) and [CVE-2008-6844](https://www.exploit-db.com/exploits/7406/) (privilege escalation exploit).
 
 This tools also detects any email or user:hashed password combination found using CVE-2008-6844 and transforms these in a hashcat usable format for easier cracking.
